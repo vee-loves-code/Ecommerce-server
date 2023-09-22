@@ -11,16 +11,17 @@
   - command to clone repo using http: git clone https://github.com/vee-loves-code/Ecommerce-server.git
 
 **RUN**
-Run the ServerApllication and ensure it compiles correctly
-Run maven clean 
+Run the ServerApllication and ensure it compiles correctly.
+Run maven clean.
 
 **TEST**
-Postman was used to test the APi
+- JUnit and Mockito was used to write unit tests for the contoller and service methods,
+- Postman was used to test the APi.
 
 Documentation
 
 Credit Card Validation
-This collection contains one request; validate card numer
+This collection contains one request; validate Card Number.
 
 ﻿
 
